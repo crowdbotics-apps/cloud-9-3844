@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT cloud_9_3844.wsgi:application
